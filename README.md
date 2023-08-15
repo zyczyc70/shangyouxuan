@@ -1,1 +1,2 @@
-# shangyouxuan
+# b站尚优选项目实战
+【尚硅谷】前端项目-尚优选（HTML/CSS/JS技术综合实战）
